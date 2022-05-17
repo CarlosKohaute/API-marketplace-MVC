@@ -4,7 +4,7 @@
   "description": "This is a project building a marketplace of cellphones with complete CRUD with two repositories, one for back an other from front-end",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index"
   },
   "repository": {
     "type": "git",
