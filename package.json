@@ -1,0 +1,23 @@
+{
+  "name": "api-marketplace-mvc",
+  "version": "1.0.0",
+  "description": "This is a project building a marketplace of cellphones with complete CRUD with two repositories, one for back an other from front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosKohaute/API-marketplace-MVC.git"
+  },
+  "keywords": [],
+  "author": "Carlos Kohaute",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosKohaute/API-marketplace-MVC/issues"
+  },
+  "homepage": "https://github.com/CarlosKohaute/API-marketplace-MVC#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
