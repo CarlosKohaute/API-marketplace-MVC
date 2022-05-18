@@ -4,7 +4,8 @@
   "description": "This is a project building a marketplace of cellphones with complete CRUD with two repositories, one for back an other from front-end",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,10 @@
   },
   "homepage": "https://github.com/CarlosKohaute/API-marketplace-MVC#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
   }
 }
